@@ -8,6 +8,6 @@ int main()
     cin >> a;
     if (a <= 2021 && a >= 2020){
     cout << "It's corona time";
-    } else {cout << "U lucky man"}
+    } else {cout << "U lucky man";}
     return 0; 
 }
