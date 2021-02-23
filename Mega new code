@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() 
+{ 
+    int a;
+    cout << "Vvedite tekush'iy god";
+    cin >> a;
+    if (a <= 2021 && a >= 2020){
+    cout << "It's corona time";
+    } else {cout << "U lucky man"}
+    return 0; 
+}
